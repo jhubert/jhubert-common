@@ -12,7 +12,6 @@ Gem::Specification.new do |s|
   s.summary     = %q{A set of common helpers that I use in my projects}
   s.description = %q{A set of common helpers that I use in my projects}
 
-  s.add_dependency "activerecord", "~> 3.0"
   s.rubyforge_project = "jhubert_common"
 
   s.files         = `git ls-files`.split("\n")
